@@ -31,9 +31,9 @@
 * [What is the Burmese New Year's Day?](#What is the Burmese New Year's Day?)
 * [What is  the Burmese New Year Festival (or) Thingyan Festival? ](#What is the Burmese New Year Festival?)
 * [How do we celebrate?](#How do we celebrate?)
-* [Thingyan flower (or) national flower of Myanmar](#Thingyan flower)
+* [Thingyan flower (or) national flower of Myanmar](#thingyan-flower)
 * [Contributing](#contributing)
-* [Reference](#references)
+* [References](#references)
 
  <br>
  
