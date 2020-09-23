@@ -95,7 +95,6 @@ the Burmese New Year Festival is also known as 'Thingyan in Myanmar language'.
 The traditional way of celebrating Thingyan was the sprinkling of scented water from a silver bowl with Eugenia leaves. 
 
 **Bagan era painting of Thingyan**
-
 <br>
  
 ![Bagan_era_painting_of_Thingyan](https://user-images.githubusercontent.com/62746283/93975833-08a65500-fd9e-11ea-9972-d000f9a9485a.jpg)
@@ -114,6 +113,10 @@ Click [Here](https://www.youtube.com/watch?v=X6XtyCiJXK8) to know how the modern
 ![Thingyan festival](https://user-images.githubusercontent.com/62746283/93975828-05ab6480-fd9e-11ea-8d5d-16ee935dc8ed.jpg)
 
 <br>
+
+**Thingyan festival**
+<br>
+
  
 ![Thingyan festival](https://user-images.githubusercontent.com/62746283/93975835-09d78200-fd9e-11ea-9f69-70826a343f43.jpg)
   
@@ -124,9 +127,7 @@ Myanmar girls perform [Thingyan songs and the Myanmar traditional dance "'Yein' 
  <br>
  
  **Thingyan Yein Dance**
- 
- <br>
- 
+  <br> 
  
 ![thingyan dance](https://user-images.githubusercontent.com/62746283/93975882-1c51bb80-fd9e-11ea-8bdb-b241d610684a.jpg)
 
