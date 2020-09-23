@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("cover.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vm;
+    font-family: 'Lobster', cursive, sans-serif;
+    margin: 0;
+}
+
+.big-text{
+    color: yellowgreen;
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 0.5;
+    margin: 3rem;
+}
+
+h1{
+    color: gold;
+    font-size: 3rem;
+    margin-top: 3rem;
+}
+
+.countdown-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.countdel {
+
+}
+
+.countdel {
+    color: gold;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
