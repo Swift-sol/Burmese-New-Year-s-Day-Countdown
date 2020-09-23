@@ -167,5 +167,5 @@ This article uses material from: <br>
 -__[the Wikipedia article](https://en.wikipedia.org/).__ <br><br><br>
 
 ##### Contact me: ☎
-If you are the **copyright owner** of these photos and content and would like to remove from here, please [contace me.](https://t.me/ThiriSan)
+If you are the **copyright owner** of these photos and content and would like to remove from here, please [contact me.](https://t.me/ThiriSan)
  
