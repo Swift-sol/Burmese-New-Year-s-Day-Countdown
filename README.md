@@ -28,9 +28,9 @@
 >On the modern Gregorian calendar as well as the Julian calendar, New Year's Day, also simply called New Year, is observed 
 >on 1 January, the first day of the first month of a year. However, for Burmese, the very first day of a year is not the New Year's Day.
 
-* [What is the Burmese New Year's Day?](#What is the Burmese New Year's Day?)
-* [What is  the Burmese New Year Festival (or) Thingyan Festival? ](#What is the Burmese New Year Festival?)
-* [How do we celebrate?](#How do we celebrate?)
+* [What is the Burmese New Year's Day?](#what-is-the-brmese-new-years-day?)
+* [What is  the Burmese New Year Festival (or) Thingyan Festival? ](#what-is-the-burmese-new-year-festival?)
+* [How do we celebrate?](#how-do-we-celebrated?)
 * [Thingyan flower (or) national flower of Myanmar](#thingyan-flower)
 * [Contributing](#contributing)
 * [References](#references)
