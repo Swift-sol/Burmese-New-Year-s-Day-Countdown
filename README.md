@@ -110,12 +110,12 @@ The traditional way of celebrating Thingyan was the sprinkling of scented water 
 
 <br>
 
-**Thingyan festival**
+**Thingyan festival**<br>
 ![Thingyan festival](https://user-images.githubusercontent.com/62746283/93975828-05ab6480-fd9e-11ea-8d5d-16ee935dc8ed.jpg)
 
 <br>
 
-**Thingyan festival**
+**Thingyan festival**<br>
 ![Thingyan festival](https://user-images.githubusercontent.com/62746283/93975835-09d78200-fd9e-11ea-9f69-70826a343f43.jpg)
   
 <br>
@@ -124,7 +124,7 @@ Myanmar girls perform [Thingyan songs and the Myanmar traditional dance "'Yein' 
 
  <br>
  
- **Thingyan Yein Dance**
+ **Thingyan Yein Dance**<br>
 ![thingyan dance](https://user-images.githubusercontent.com/62746283/93975882-1c51bb80-fd9e-11ea-8bdb-b241d610684a.jpg)
 
   
@@ -134,7 +134,7 @@ Myanmar girls perform [Thingyan songs and the Myanmar traditional dance "'Yein' 
 
 The Burmese people offer food donations called [Satuditha](https://mingalago.com/en/interest/detail/sa-tu-di-thar) to neighbors, relative and all participating in the new year's celebrations.
 
-**Studita**
+**Studita**<br>
 ![Sa-tu-di-thar](https://user-images.githubusercontent.com/62746283/93983030-0ba64300-fda8-11ea-9f36-e95a0a011584.jpg)
 
  <br>
@@ -144,7 +144,7 @@ The Burmese people offer food donations called [Satuditha](https://mingalago.com
 
 <br>
 
- **Padauk Flower**
+ **Padauk Flower**<br>
 ![padauk](https://user-images.githubusercontent.com/62746283/93975841-0cd27280-fd9e-11ea-849e-8cb874a1ddac.jpg)
 
  
