@@ -158,7 +158,7 @@ The Burmese people offer food donations called [Satuditha](https://mingalago.com
  
 <br>
  
-### Contributing 🧑🏻‍🤝‍🧑🏽
+### Contributing🧑🏻‍🤝‍🧑🏽
 Any suggestions or improvement in the project? You can contribute to the project freely. 
 
 ### References
