@@ -27,7 +27,7 @@
 
 > 17th April is the New Year's Day on Burmese Calendar. <br>
 >On the modern Gregorian calendar as well as the Julian calendar, New Year's Day, also simply called New Year, is observed 
->on 1 January, the first day of the first month of a year. However, for Burmese, the very first day of a year is not the New Year's Day.
+>on 1 January, the first day of the first month of a year. However, for Burmese, the very first day of the first month of a year is not the New Year's Day.
 
 
 * [What is the Burmese New Year's Day?](#what-is-the-burmese-new-years-day)
