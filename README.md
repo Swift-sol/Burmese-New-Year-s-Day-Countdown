@@ -17,6 +17,14 @@
 
 #### This project is about Myanmar New Year's Day & New Year Festival
 
+<br>
+
+#### The unusual thing about this project is: the new year day will count at 5:00 AM.
+`The Burmese calendar is the traditional Lunisolar Calendar indicates both the Moon phase and the time of the solar year.`
+
+`Therefore, the Burmese people believe the new day begins at dawn (considering 5:00 AM here instead of at midnight.)`
+
+
  <br>
  
 ![bnyd](https://user-images.githubusercontent.com/62746283/93990215-dfdb8b00-fdb0-11ea-94aa-405f2cafbe3e.PNG)
