@@ -39,7 +39,7 @@ The Burmese calendar is the traditional Lunisolar Calendar indicates both the Mo
 
 
 
-Therefore, the Burmese people believe the new day begins at dawn (considering 5:00 AM [here](https://github.com/Swift-sol/Burmese-New-Year-s-Day-Countdown) instead of at midnight. <br>On this day, Burmese people may make New Year’s resolutions usually about changing bad behaviour, avoiding sins and
+Therefore, the Burmese people believe the new day begins at dawn (considering 5:00 AM [here](https://github.com/Swift-sol/Burmese-New-Year-s-Day-Countdown) instead of at midnight). <br>On this day, Burmese people may make New Year’s resolutions usually about changing bad behaviour, avoiding sins and
    promising to do more good deeds for karma.<br><br>
    
   ***Some example of meritorious deeds performed on this day are :***<br><br>
