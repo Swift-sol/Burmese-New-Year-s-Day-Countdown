@@ -19,10 +19,10 @@
 
 <br>
 
-#### The unusual thing about this project is: the new year day will count at 5:00 AM.
-`The Burmese calendar is the traditional Lunisolar Calendar indicates both the Moon phase and the time of the solar year.`
+## The unusual thing about this project is: the new year day will count at 5:00 AM.
+-  `The Burmese calendar is the traditional Lunisolar Calendar indicates both the Moon phase and the time of the solar year.`
 
-`Therefore, the Burmese people believe the new day begins at dawn (considering 5:00 AM here instead of at midnight.)`
+-  `Therefore, the Burmese people believe the new day begins at dawn (considering 5:00 AM here instead of at midnight.)`
 
 
  <br>
